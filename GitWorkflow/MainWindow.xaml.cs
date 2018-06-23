@@ -25,5 +25,9 @@ namespace GitWorkflow
 			InitializeComponent();
 		}
 	}
+
+
+	public class Test { }
 	//
+
 }
