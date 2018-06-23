@@ -9,4 +9,5 @@ namespace GitWorkflow
 	class Class1
 	{
 	}
+	class Class2 { }
 }
